@@ -1,0 +1,15 @@
+body{
+    margin: 0;
+    padding: 0;
+    overflow: hidden;
+}
+
+
+
+canvas{
+    background-color: lightgrey;
+    position: fixed;
+    top: 0;
+    left: 0;
+    outline: none;
+}
